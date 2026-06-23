@@ -55,6 +55,6 @@ The slider functions by stacking two images directly on top of each other using 
 
 ## 👤 Author
 
-* **Bineth Tharana** - [GitHub Profile](https://www.google.com/search?q=https://github.com/Bineth-Tharana)
+* **Bineth Tharana** - [GitHub Profile](https://www.google.com/search?q=[https://github.com/Bineth-Tharana](https://github.com/Bineth-Tharana))
 
 ```
